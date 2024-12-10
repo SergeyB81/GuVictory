@@ -1,4 +1,4 @@
-# Привет, я Сергей Быков <h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+# Привет, я Сергей Быков <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
 
