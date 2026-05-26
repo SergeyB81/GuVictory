@@ -1,5 +1,5 @@
 # Привет, я Сергей Быков <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<b>Я аналитик Data scientist</b> 
+<b>Я Data scientist</b> 
 
 
 
